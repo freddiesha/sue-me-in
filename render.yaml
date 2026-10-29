@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: sue-me-inc
+    name: sue-me-in
     runtime: static
     buildCommand: 'true'
     staticPublishPath: ./public
